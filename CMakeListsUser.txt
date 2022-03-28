@@ -1,0 +1,7 @@
+include_directories(
+        src/DataPROC
+        src/UserApp
+        src/Port
+        src/HAL
+        lib
+)
